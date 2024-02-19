@@ -1,0 +1,5 @@
+Nombre : Ruben
+Apellido : Bernal
+Estatura : 1.70
+RH : A+
+FechaNacimiento : 10/06/1967

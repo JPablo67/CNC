@@ -1,0 +1,5 @@
+Nombre : Jaime
+Apellido : Bernal
+Estatura : 1.72
+RH : A+
+FechaNacimiento : 10/06/1938

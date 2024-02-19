@@ -1,0 +1,6 @@
+Nombre : Pablo
+Apellido : Acosta
+Estatura : 1.80
+RH : A+
+FechaNacimiento : 10/06/1984
+

@@ -1,0 +1,5 @@
+Nombre : Carlos 
+Apellido : Acosta
+Estatura : 1.74
+RH : O+
+FechaNacimiento : 10/06/1957

@@ -1,0 +1,5 @@
+Nombre : Catalina
+Apellido : Acosta
+Estatura : 1.65
+RH : A+
+FechaNacimiento : 10/06/1940
